@@ -57,13 +57,43 @@ Martínez, Daniel E. and **Kelsey E. Gonzalez**. “Racially identifying as ‘O
   
 ### Conferences and Presentations
 ***
+2019 “The Importance of Homophily for Perceived Ethno-Racial Discrimination.”, *Accepted to Present at American Sociological Association Annual Conference. *
+
+2019 “Hispanic or Latino?: The Sociodemographic Correlates of Panethnic Label Preferences among US Latinos/Hispanics”, *Accepted to Present at American Sociological Association Annual Conference.*
+
+2013 “Life Without Water: The Border Dispute between Chile, Bolivia and Peru” *Paper presented at the Borders Boundaries and Peace Undergraduate Research Conference. Milwaukee, WI.*
 
   
 ### Teaching
 ***
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+#### Instructor of Record, University of Arizona
+SOC101: Introduction to Sociology 
+
+- 2019 Summer Session II
+- 2019 Winter Session
+
+#### Teaching Assistant, University of Arizona
+SOC150: Social Issues in America
+
+- 2017 Fall with Prof. Jennifer Earl
+
+#### Discussion Section Instructor, Trinity College, Dublin
+Soc1310: Introduction to Sociology 
+
+- 2016 Fall with Prof. Daniel Faas
+- 2017 Spring with Prof. Richard Layte
+
+Soc3240: Researching Society 
+
+- 2016 Fall with Dr. Alicja Bobek 
+
+Soc2310: Introduction to Social Research 
+
+- 2017 Spring with Dr. Laura Graham
+
+
+
   
 ### Service and leadership
 ***
@@ -81,11 +111,25 @@ Martínez, Daniel E. and **Kelsey E. Gonzalez**. “Racially identifying as ‘O
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-### Skills
+### Programming and Technical Skills
 ***
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Stata, R, Python, UCINET, SPSS, ArcMap 
+
+### Awards and Academic Recognition
+***
+2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Science Institute, the University of Arizona
+
+2019-Present	University ASA Reception Coordinator, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Sociology, the University of Arizona
+
+2018-Present	Bulletin Committee Chair, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
+
+2017-2018	Communications Committee, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
+
+
+### Professional Affiliations 
+***
+2017-Present American Sociological Association
