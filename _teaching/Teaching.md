@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /Teaching
+---
+
 Instructor of Record, University of Arizona
 ---------------
 SOC101: Introduction to Sociology 
