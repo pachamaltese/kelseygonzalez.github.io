@@ -129,11 +129,11 @@ Stata, R, Python, UCINET, SPSS, ArcMap
 
 ## Awards and Academic Recognition
 ***
-2019	        Graduate & Professional Student Council Travel Grant ($750)  
-2019	        School of Sociology Travel Grant ($500)  
-2018-2022	    Graduate Associateship  
-2017	        Graduate Teaching Associateship   
-2017-2018	SBS Graduate Fellowship ($4,125)  
+2019 - Graduate & Professional Student Council Travel Grant ($750)    
+2019 - School of Sociology Travel Grant ($500)  
+2018-2022 - Graduate Associateship  
+2017 - Graduate Teaching Associateship   
+2017-2018 - SBS Graduate Fellowship ($4,125)  
 
 ### Professional Affiliations 
 ***
