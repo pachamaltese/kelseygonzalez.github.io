@@ -99,17 +99,36 @@ Soc2310: Introduction to Social Research
 ***
 * Currently signed in to 43 different slack teams
 
-### Work experience
+### Research Experience
 ***
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  
+Fall 2018 - Current
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Research Assistant**, “Latina/o Racial and Identity Preferences”
+- University of Arizona, School of Sociology
+- Principal Investigator: Daniel Martínez
+
+
+Spring 2019 
+
+- **Research Apprenticeship**, “Putting the Geo back in Geopolitics:  A Cross-National Quantitative Analysis”
+- University of Arizona, School of Sociology
+- Principal Investigator: Albert Bergesen
+
+
+Summer 2018
+
+- **Research Assistant**, “National Survey on Political Incivility and Political Polarization”
+- University of Arizona, School of Sociology
+- Principal Investigators: Robin Stryker, Bethany A. Conway-Silva 
+
+
+Spring 2018
+
+- **Research Assistant**, “The Migrant Border Crossing Project”
+- University of Arizona, School of Sociology
+- Principal Investigator: Daniel Martínez
+
   
 ### Programming and Technical Skills
 ***
@@ -118,15 +137,22 @@ Stata, R, Python, UCINET, SPSS, ArcMap
 ### Awards and Academic Recognition
 ***
 2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Science Institute, the University of Arizona
 
+
 2019-Present	University ASA Reception Coordinator, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Sociology, the University of Arizona
 
+
 2018-Present	Bulletin Committee Chair, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
 
+
 2017-2018	Communications Committee, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
 
 
