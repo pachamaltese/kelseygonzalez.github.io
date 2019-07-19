@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Kelsey E. Gonzalez"
-  avatar           : "profile.png"
+  avatar           : "Kelsey-Gonzalez.jpg"
   bio              : "PhD Student in Sociology at the University of Arizona"
   location         : "Tucson, Arizona"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Kelsey_Gonzalez"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KelseyGonzalez"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@KelseyEGonzalez"
   vine             :
   weibo            :
   xing             :
