@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Kelsey E. Gonzalez"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-<p style="text-align: center;">
-<h1>Kelsey E. Gonzalez</h1>  
+li {list-style-type: none;}
+
 School of Sociology  
 University of Arizona  
 Social Sciences Building  
@@ -18,33 +17,32 @@ Room 412
 
 Email: kelseyGonzalez@email.arizona.edu   
 sociology.arizona.edu/user/Kelsey-Gonzalez   
-</p>
 
-### Education
+## Education
 ***
-#### University of Arizona
-2022 (Anticipated) PhD Sociology, School of Sociology
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Comprehensive Exams*:  Social Networks (Spring 2019), Statistics & Methods (exp Fall 2019)
-<br>
-2020 Graduate Certificate in Computational Social Sciences
-<br>
-2018 MA Sociology
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thesis*: “The Importance of Homophily for Perceived Ethno-Racial Discrimination”
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Committee*: Daniel E. Martínez (Chair), Joe Galaskiewicz, Jeremy E. Fiel 
+### University of Arizona
+<dl>
+  <dt>2022 (Anticipated) PhD Sociology, School of Sociology  </dt>
+  <dd><i>Comprehensive Exams</i>: Social Networks (Spring 2019), Statistics & Methods (exp Fall 2019)  </dd>
+<dt>2020 Graduate Certificate in Computational Social Sciences  </dt>
+<dt>2018 MA Sociology  </dt>
+ <dd><i>Thesis</i>: “The Importance of Homophily for Perceived Ethno-Racial Discrimination” <br>  
+ <i>Committee</i>: Daniel E. Martínez (Chair), Joe Galaskiewicz, Jeremy E. Fiel  </dd>
+</dl>
 
-#### Trinity College, Dublin
-2015 MPhil Race Ethnicity and Conflict, Department of Sociology
+### Trinity College, Dublin
+<dl>
+  <dt>2015 MPhil Race Ethnicity and Conflict, Department of Sociology  </dt>
+  <dd><i>Thesis</i>: “Teaching Locality: A Comparative Analysis of The Promotion of Local Culture in Postcolonial State Curricula” <br>
+  <i>Advisor</i>: Daniel Faas </dd>
+</dl>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thesis*: “Teaching Locality: A Comparative Analysis of The Promotion of Local Culture in Postcolonial State Curricula”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Advisor*: Daniel Faas 
-
-### Primary Fields of Specialization
+## Primary Fields of Specialization
 ***
 Quantitative Methods		          Computational Methods 	  Social Network Analysis
 Sociology of Race and Ethnicity 	Environmental Sociology	  Sociology of Health
 
-### Manuscripts Under Review
+## Manuscripts Under Review
 ***
 **Gonzalez, Kelsey E**. “The Importance of Homophily for Perceived Ethno-Racial Discrimination.”, Under review
 
@@ -54,14 +52,14 @@ Martínez, Daniel E. and **Kelsey E. Gonzalez**. “Panethnicity as a Primary Id
 
 Mannheimer, Andrew H., Adrienne Milner, **Kelsey E. Gonzalez**, and Terrence D. Hill.  “Social Status and White Fragility: Gender and Socioeconomic Variations.”, Under Review
   
-### Working Papers
+## Working Papers
 ***
 Jang, Beksahn, **Kelsey E. Gonzalez**, Liwen Zeng, and Daniel E. Martínez. “Correlates of Panethnic Identification: Assessing similarities and differences among Latinos and Asian Americans in the United States”, In preparation.
 
 Martínez, Daniel E. and **Kelsey E. Gonzalez**. “Racially identifying as ‘Other’ and ‘Hispanic/Latino’: Determinants of Racial Identities among Latinos in the United States”, In preparation.
 
   
-### Conferences and Presentations
+## Conferences and Presentations
 ***
 2019 “The Importance of Homophily for Perceived Ethno-Racial Discrimination.”, *Accepted to Present at American Sociological Association Annual Conference. *
 
@@ -70,21 +68,21 @@ Martínez, Daniel E. and **Kelsey E. Gonzalez**. “Racially identifying as ‘O
 2013 “Life Without Water: The Border Dispute between Chile, Bolivia and Peru” *Paper presented at the Borders Boundaries and Peace Undergraduate Research Conference. Milwaukee, WI.*
 
   
-### Teaching
+## Teaching
 ***
 
-#### Instructor of Record, University of Arizona
+### Instructor of Record, University of Arizona
 SOC101: Introduction to Sociology 
 
 - 2019 Summer Session II
 - 2019 Winter Session
 
-#### Teaching Assistant, University of Arizona
+### Teaching Assistant, University of Arizona
 SOC150: Social Issues in America
 
 - 2017 Fall with Prof. Jennifer Earl
 
-#### Discussion Section Instructor, Trinity College, Dublin
+### Discussion Section Instructor, Trinity College, Dublin
 Soc1310: Introduction to Sociology 
 
 - 2016 Fall with Prof. Daniel Faas
@@ -98,7 +96,7 @@ Soc2310: Introduction to Social Research
 
 - 2017 Spring with Dr. Laura Graham
 
-### Service and leadership
+## Service and leadership
 ***
 2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences
 
@@ -119,7 +117,7 @@ Soc2310: Introduction to Social Research
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
 
-### Research Experience
+## Research Experience
 ***
   
 Fall 2018 - Current
@@ -150,11 +148,11 @@ Spring 2018
 - Principal Investigator: Daniel Martínez
 
   
-### Programming and Technical Skills
+## Programming and Technical Skills
 ***
 Stata, R, Python, UCINET, SPSS, ArcMap 
 
-### Awards and Academic Recognition
+## Awards and Academic Recognition
 ***
 2019	        Graduate & Professional Student Council Travel Grant ($750) 
 
