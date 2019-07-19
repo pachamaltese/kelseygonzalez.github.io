@@ -8,30 +8,36 @@ redirect_from:
 ---
 
 {% include base_path %}
+<p style="text-align: center;">
+<h1>Kelsey E. Gonzalez</h1>  
+School of Sociology  
+University of Arizona  
+Social Sciences Building  
+Room 412  
+
+
+Email: kelseyGonzalez@email.arizona.edu   
+sociology.arizona.edu/user/Kelsey-Gonzalez   
+</p>
 
 ### Education
 ***
 #### University of Arizona
 2022 (Anticipated) PhD Sociology, School of Sociology
-
-*Comprehensive Exams*:  Social Networks (Spring 2019), Statistics & Methods (exp Fall 2019)
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Comprehensive Exams*:  Social Networks (Spring 2019), Statistics & Methods (exp Fall 2019)
+<br>
 2020 Graduate Certificate in Computational Social Sciences
-
-
+<br>
 2018 MA Sociology
-
-*Thesis*: “The Importance of Homophily for Perceived Ethno-Racial Discrimination”
-
-*Committee*: Daniel E. Martínez (Chair), Joe Galaskiewicz, Jeremy E. Fiel 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thesis*: “The Importance of Homophily for Perceived Ethno-Racial Discrimination”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Committee*: Daniel E. Martínez (Chair), Joe Galaskiewicz, Jeremy E. Fiel 
 
 #### Trinity College, Dublin
 2015 MPhil Race Ethnicity and Conflict, Department of Sociology
 
-*Thesis*: “Teaching Locality: A Comparative Analysis of The Promotion of Local Culture in Postcolonial State Curricula”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thesis*: “Teaching Locality: A Comparative Analysis of The Promotion of Local Culture in Postcolonial State Curricula”
 
-*Advisor*: Daniel Faas 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Advisor*: Daniel Faas 
 
 ### Primary Fields of Specialization
 ***
@@ -92,12 +98,26 @@ Soc2310: Introduction to Social Research
 
 - 2017 Spring with Dr. Laura Graham
 
-
-
-  
 ### Service and leadership
 ***
-* Currently signed in to 43 different slack teams
+2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Science Institute, the University of Arizona
+
+
+2019-Present	University ASA Reception Coordinator, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Sociology, the University of Arizona
+
+
+2018-Present	Bulletin Committee Chair, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
+
+
+2017-2018	Communications Committee, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
 
 ### Research Experience
 ***
@@ -136,24 +156,15 @@ Stata, R, Python, UCINET, SPSS, ArcMap
 
 ### Awards and Academic Recognition
 ***
-2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences
+2019	        Graduate & Professional Student Council Travel Grant ($750) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Science Institute, the University of Arizona
+2019	        School of Sociology Travel Grant ($500)
 
+2018-2022	    Graduate Associateship
 
-2019-Present	University ASA Reception Coordinator, 
+2017	        Graduate Teaching Associateship
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Sociology, the University of Arizona
-
-
-2018-Present	Bulletin Committee Chair, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
-
-
-2017-2018	Communications Committee, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
+2017-2018	SBS Graduate Fellowship ($4,125)
 
 
 ### Professional Affiliations 
