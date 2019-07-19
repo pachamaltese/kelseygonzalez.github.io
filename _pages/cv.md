@@ -7,22 +7,15 @@ redirect_from:
   - /resume
 ---
 
-School of Sociology  
-University of Arizona  
-Social Sciences Building  
-Room 412  
-
-
-Email: kelseyGonzalez@email.arizona.edu   
-sociology.arizona.edu/user/Kelsey-Gonzalez   
-
 ## Education
 ***
 ### University of Arizona
 <dl>
   <dt>2022 (Anticipated) PhD Sociology, School of Sociology  </dt>
   <dd><i>Comprehensive Exams</i>: Social Networks (Spring 2019), Statistics & Methods (exp Fall 2019)  </dd>
+
 <dt>2020 Graduate Certificate in Computational Social Sciences  </dt>
+
 <dt>2018 MA Sociology  </dt>
  <dd><i>Thesis</i>: “The Importance of Homophily for Perceived Ethno-Racial Discrimination” <br>  
  <i>Committee</i>: Daniel E. Martínez (Chair), Joe Galaskiewicz, Jeremy E. Fiel  </dd>
