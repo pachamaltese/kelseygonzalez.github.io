@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-li {list-style-type: none;}
 
 School of Sociology  
 University of Arizona  
@@ -39,8 +37,12 @@ sociology.arizona.edu/user/Kelsey-Gonzalez
 
 ## Primary Fields of Specialization
 ***
-Quantitative Methods		          Computational Methods 	  Social Network Analysis
-Sociology of Race and Ethnicity 	Environmental Sociology	  Sociology of Health
+Quantitative Methods  
+Computational Methods  
+Social Network Analysis  
+Sociology of Race and Ethnicity  
+Environmental Sociology  
+Sociology of Health  
 
 ## Manuscripts Under Review
 ***
@@ -72,81 +74,61 @@ Martínez, Daniel E. and **Kelsey E. Gonzalez**. “Racially identifying as ‘O
 ***
 
 ### Instructor of Record, University of Arizona
-SOC101: Introduction to Sociology 
-
+SOC101: Introduction to Sociology  
 - 2019 Summer Session II
 - 2019 Winter Session
 
 ### Teaching Assistant, University of Arizona
-SOC150: Social Issues in America
-
+SOC150: Social Issues in America  
 - 2017 Fall with Prof. Jennifer Earl
 
 ### Discussion Section Instructor, Trinity College, Dublin
-Soc1310: Introduction to Sociology 
-
+Soc1310: Introduction to Sociology  
 - 2016 Fall with Prof. Daniel Faas
-- 2017 Spring with Prof. Richard Layte
+- 2017 Spring with Prof. Richard Layte  
 
-Soc3240: Researching Society 
-
+Soc3240: Researching Society  
 - 2016 Fall with Dr. Alicja Bobek 
 
-Soc2310: Introduction to Social Research 
-
+Soc2310: Introduction to Social Research  
 - 2017 Spring with Dr. Laura Graham
 
 ## Service and leadership
 ***
-2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences
-
+2019-Present	Data Science Ambassador for College of Social and Behavioral Sciences  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Science Institute, the University of Arizona
 
-
-2019-Present	University ASA Reception Coordinator, 
-
+2019-Present	University ASA Reception Coordinator  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Sociology, the University of Arizona
 
-
-2018-Present	Bulletin Committee Chair, 
-
+2018-Present	Bulletin Committee Chair,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
 
-
-2017-2018	Communications Committee, 
-
+2017-2018	Communications Committee,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sociology Graduate Student Association at the University of Arizona
 
 ## Research Experience
 ***
-  
-Fall 2018 - Current
 
+Fall 2018 - Current  
 - **Research Assistant**, “Latina/o Racial and Identity Preferences”
 - University of Arizona, School of Sociology
 - Principal Investigator: Daniel Martínez
 
-
-Spring 2019 
-
+Spring 2019  
 - **Research Apprenticeship**, “Putting the Geo back in Geopolitics:  A Cross-National Quantitative Analysis”
 - University of Arizona, School of Sociology
 - Principal Investigator: Albert Bergesen
 
-
-Summer 2018
-
+Summer 2018  
 - **Research Assistant**, “National Survey on Political Incivility and Political Polarization”
 - University of Arizona, School of Sociology
 - Principal Investigators: Robin Stryker, Bethany A. Conway-Silva 
 
-
-Spring 2018
-
+Spring 2018  
 - **Research Assistant**, “The Migrant Border Crossing Project”
 - University of Arizona, School of Sociology
 - Principal Investigator: Daniel Martínez
-
   
 ## Programming and Technical Skills
 ***
@@ -154,16 +136,11 @@ Stata, R, Python, UCINET, SPSS, ArcMap
 
 ## Awards and Academic Recognition
 ***
-2019	        Graduate & Professional Student Council Travel Grant ($750) 
-
-2019	        School of Sociology Travel Grant ($500)
-
-2018-2022	    Graduate Associateship
-
-2017	        Graduate Teaching Associateship
-
-2017-2018	SBS Graduate Fellowship ($4,125)
-
+2019	        Graduate & Professional Student Council Travel Grant ($750)  
+2019	        School of Sociology Travel Grant ($500)  
+2018-2022	    Graduate Associateship  
+2017	        Graduate Teaching Associateship   
+2017-2018	SBS Graduate Fellowship ($4,125)  
 
 ### Professional Affiliations 
 ***
