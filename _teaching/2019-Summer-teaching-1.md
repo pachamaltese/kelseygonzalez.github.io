@@ -10,19 +10,19 @@ location: "Tucson, Arizona"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Instructor of Record, University of Arizona
+###Instructor of Record, University of Arizona
 ======
 SOC101: Introduction to Sociology 
  - 2019 Summer Session II
  - 2019 Winter Session
 
 
-Teaching Assistant, University of Arizona
+###Teaching Assistant, University of Arizona
 ======
 SOC150: Social Issues in America
 - Fall 2017 with Prof. Jennifer Earl
 
-Discussion Section Lecturer, Trinity College, Dublin
+###Discussion Section Lecturer, Trinity College, Dublin
 ======
 Soc1310: Introduction to Sociology 
 - Fall 2016; Prof. Daniel Faas
