@@ -5,32 +5,32 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Teaching
+***
 
-Instructor of Record, University of Arizona
----------------
+#### Instructor of Record, University of Arizona
 SOC101: Introduction to Sociology 
 
-    - 2019 Summer Session II
-    - 2019 Winter Session
+- 2019 Summer Session II
+- 2019 Winter Session
 
-Teaching Assistant, University of Arizona
----------------
+#### Teaching Assistant, University of Arizona
 SOC150: Social Issues in America
 
-    - Fall 2017 with Prof. Jennifer Earl
+- 2017 Fall with Prof. Jennifer Earl
 
-Discussion Section Instructor, Trinity College, Dublin
----------------
+#### Discussion Section Instructor, Trinity College, Dublin
 Soc1310: Introduction to Sociology 
 
-    - Fall 2016 with Prof. Daniel Faas
-    - Spring 2017 with Prof. Richard Layte
-
-Soc2310: Introduction to Social Research 
-
-    - Spring 2017 with Dr. Laura Graham
+- 2016 Fall with Prof. Daniel Faas
+- 2017 Spring with Prof. Richard Layte
 
 Soc3240: Researching Society 
 
-    - Fall 2016 with Dr. Alicja Bobek 
+- 2016 Fall with Dr. Alicja Bobek 
+
+Soc2310: Introduction to Social Research 
+
+- 2017 Spring with Dr. Laura Graham
+
 
