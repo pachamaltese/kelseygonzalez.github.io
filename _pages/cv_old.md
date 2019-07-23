@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Kelsey E. Gonzalez"
-permalink: /cv/
+permalink: /cvold/
 author_profile: true
 redirect_from:
   - /resume
