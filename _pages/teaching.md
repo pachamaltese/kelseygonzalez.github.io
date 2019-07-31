@@ -8,7 +8,7 @@ author_profile: true
 ### Instructor of Record, University of Arizona
 ***
 SOC101: Introduction to Sociology  
-+ 2019 Summer Session II  
++ [2019 Summer Session II](kelseygonzalez.github.io/files/2019SUM_Soc101_syllabus.pdf) 
 + 2019 Winter Session (Upcoming)  
 
 ### Teaching Assistant, University of Arizona
