@@ -27,3 +27,8 @@ Soc3240: Researching Society
 
 Soc2310: Introduction to Social Research  
 + 2017 Spring with Dr. Laura Graham  
+
+### Workshops
+***
+Software Carpentry: R for Reproducible Scientific Analysis
++ Oct 26-27, 2019 Data Science Institute, University of Arizona
