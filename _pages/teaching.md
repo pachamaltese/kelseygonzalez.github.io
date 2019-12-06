@@ -30,5 +30,8 @@ Soc2310: Introduction to Social Research
 
 ### Workshops
 ***
-Software Carpentry: R for Reproducible Scientific Analysis
-+ Oct 26-27, 2019 Data Science Institute, University of Arizona
+Software Carpentry: R for Reproducible Scientific Analysis  
++ [Oct 26-27, 2019 Data Science Institute, University of Arizona](https://ua-carpentries-workshops.github.io/2019-10-26-Tucson/)  
+Data Carpentry: R for Social Scientists  
++ [Jan 15-16, 2020 Bryn Mawr College](https://kelseygonzalez.github.io/2020-01-15-brynmawr/)  
+
