@@ -9,10 +9,18 @@ author_profile: true
 ***
 SOC101: Introduction to Sociology  
 + [2019 Summer Session II](/files/2019SUM_Soc101_syllabus.pdf) 
-+ 2019 Winter Session (Upcoming)  
+
+SOC303: Health and Society
++ 2019 Summer Session II
 
 ### Teaching Assistant, University of Arizona
 ***
+SOC202: Connecting Society and Health
++ 2020 Spring with Dr. Jennifer Brailsford
+
+SOC350: Environment, Health and Society
++ 2020 Spring with Dr. Jennifer Brailsford
+
 SOC150: Social Issues in America  
 + 2017 Fall with Prof. Jennifer Earl  
 
